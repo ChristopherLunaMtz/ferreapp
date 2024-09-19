@@ -81,4 +81,4 @@ print('Failed to load data');
 Nota Adicional
 Si tienes algún firewall o antivirus que pueda bloquear el acceso a la red, asegúrate de permitir el acceso al puerto 5000 para que puedas consumir la API desde tu teléfono.
 
-Con estos pasos, deberías poder crear y consumir tu API local en tu aplicación Flutter. Si necesitas más ayuda o detalles adicionales, estoy aquí para ayudarte..
+Con estos pasos, deberías poder crear y consumir tu API local en tu aplicación Flutter. Si necesitas más ayuda o detalles adicionales, estoy aquí para ayudarte...
