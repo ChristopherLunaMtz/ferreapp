@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-necesito hacer un pequeno servidor en mi computadora,
+necesitooo hacer un pequeno servidor en mi computadora,
 hacer una api para hacer un endpoint del cual pueda consumir inforacion json en mi telefono celular con una app flutter que tengo
 ChatGPT Plus
 ChatGPT
